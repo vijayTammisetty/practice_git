@@ -11,3 +11,5 @@ class Person:
 
     def education(self):
         print("He has comleted in ", self.year)
+        print("Developer 2 Updates")
+
